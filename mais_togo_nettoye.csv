@@ -1,0 +1,120 @@
+Date,Région,Produit,Prix_KG
+2025-01-01,DAGL,mais blanc,255
+2025-01-01,Maritime,mais blanc,209
+2025-01-01,Plateaux Est,mais blanc,208
+2025-01-01,Plateaux Ouest,mais blanc,268
+2025-01-01,Centrale,mais blanc,207
+2025-01-01,Kara,mais blanc,240
+2025-01-01,Savane,mais blanc,217
+2025-02-01,DAGL,mais blanc,253
+2025-02-01,Maritime,mais blanc,215
+2025-02-01,Plateaux Est,mais blanc,221
+2025-02-01,Plateaux Ouest,mais blanc,273
+2025-02-01,Centrale,mais blanc,229
+2025-02-01,Kara,mais blanc,236
+2025-02-01,Savane,mais blanc,232
+2025-03-01,DAGL,mais blanc,260
+2025-03-01,Maritime,mais blanc,235
+2025-03-01,Plateaux Est,mais blanc,220
+2025-03-01,Plateaux Ouest,mais blanc,266
+2025-03-01,Centrale,mais blanc,238
+2025-03-01,Kara,mais blanc,233
+2025-03-01,Savane,mais blanc,228
+2025-04-01,DAGL,mais blanc,259
+2025-04-01,Maritime,mais blanc,231
+2025-04-01,Plateaux Est,mais blanc,216
+2025-04-01,Plateaux Ouest,mais blanc,261
+2025-04-01,Centrale,mais blanc,232
+2025-04-01,Kara,mais blanc,222
+2025-04-01,Savane,mais blanc,221
+2025-05-01,DAGL,mais blanc,267
+2025-05-01,Maritime,mais blanc,227
+2025-05-01,Plateaux Est,mais blanc,223
+2025-05-01,Plateaux Ouest,mais blanc,267
+2025-05-01,Centrale,mais blanc,239
+2025-05-01,Kara,mais blanc,222
+2025-05-01,Savane,mais blanc,211
+2025-06-01,DAGL,mais blanc,271
+2025-06-01,Maritime,mais blanc,230
+2025-06-01,Plateaux Est,mais blanc,231
+2025-06-01,Plateaux Ouest,mais blanc,251
+2025-06-01,Centrale,mais blanc,225
+2025-06-01,Kara,mais blanc,217
+2025-06-01,Savane,mais blanc,220
+2025-07-01,DAGL,mais blanc,272
+2025-07-01,Maritime,mais blanc,222
+2025-07-01,Plateaux Est,mais blanc,201
+2025-07-01,Plateaux Ouest,mais blanc,220
+2025-07-01,Centrale,mais blanc,167
+2025-07-01,Kara,mais blanc,208
+2025-07-01,Savane,mais blanc,194
+2025-08-01,DAGL,mais blanc,276
+2025-08-01,Maritime,mais blanc,161
+2025-08-01,Plateaux Est,mais blanc,174
+2025-08-01,Plateaux Ouest,mais blanc,215
+2025-08-01,Centrale,mais blanc,206
+2025-08-01,Kara,mais blanc,192
+2025-08-01,Savane,mais blanc,195
+2025-09-01,DAGL,mais blanc,237
+2025-09-01,Maritime,mais blanc,159
+2025-09-01,Plateaux Est,mais blanc,166
+2025-09-01,Plateaux Ouest,mais blanc,204
+2025-09-01,Centrale,mais blanc,191
+2025-09-01,Kara,mais blanc,166
+2025-09-01,Savane,mais blanc,161
+2025-10-01,DAGL,mais blanc,233
+2025-10-01,Maritime,mais blanc,158
+2025-10-01,Plateaux Est,mais blanc,154
+2025-10-01,Plateaux Ouest,mais blanc,180
+2025-10-01,Centrale,mais blanc,172
+2025-10-01,Kara,mais blanc,138
+2025-10-01,Savane,mais blanc,153
+2025-11-01,DAGL,mais blanc,224
+2025-11-01,Maritime,mais blanc,170
+2025-11-01,Plateaux Est,mais blanc,165
+2025-11-01,Plateaux Ouest,mais blanc,170
+2025-11-01,Centrale,mais blanc,161
+2025-11-01,Kara,mais blanc,136
+2025-11-01,Savane,mais blanc,147
+2025-12-01,DAGL,mais blanc,227
+2025-12-01,Maritime,mais blanc,170
+2025-12-01,Plateaux Est,mais blanc,170
+2025-12-01,Plateaux Ouest,mais blanc,188
+2025-12-01,Centrale,mais blanc,182
+2025-12-01,Kara,mais blanc,147
+2025-12-01,Savane,mais blanc,154
+2026-01-01,DAGL,mais blanc,217
+2026-01-01,Maritime,mais blanc,170
+2026-01-01,Plateaux Est,mais blanc,149
+2026-01-01,Plateaux Ouest,mais blanc,181
+2026-01-01,Centrale,mais blanc,164
+2026-01-01,Kara,mais blanc,143
+2026-01-01,Savane,mais blanc,159
+2026-02-01,DAGL,mais blanc,231
+2026-02-01,Maritime,mais blanc,167
+2026-02-01,Plateaux Est,mais blanc,146
+2026-02-01,Plateaux Ouest,mais blanc,170
+2026-02-01,Centrale,mais blanc,155
+2026-02-01,Kara,mais blanc,143
+2026-02-01,Savane,mais blanc,147
+2026-03-01,DAGL,mais blanc,200
+2026-03-01,Maritime,mais blanc,165
+2026-03-01,Plateaux Est,mais blanc,151
+2026-03-01,Plateaux Ouest,mais blanc,189
+2026-03-01,Centrale,mais blanc,162
+2026-03-01,Kara,mais blanc,135
+2026-03-01,Savane,mais blanc,150
+2026-04-01,DAGL,mais blanc,200
+2026-04-01,Maritime,mais blanc,157
+2026-04-01,Plateaux Est,mais blanc,144
+2026-04-01,Plateaux Ouest,mais blanc,177
+2026-04-01,Centrale,mais blanc,148
+2026-04-01,Kara,mais blanc,133
+2026-04-01,Savane,mais blanc,130
+2026-05-01,DAGL,mais blanc,193
+2026-05-01,Maritime,mais blanc,156
+2026-05-01,Plateaux Est,mais blanc,136
+2026-05-01,Plateaux Ouest,mais blanc,183
+2026-05-01,Centrale,mais blanc,139
+2026-05-01,Kara,mais blanc,149
+2026-05-01,Savane,mais blanc,130
